@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b7ab8b3-2017-4bba-b083-5750996fccd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/Pool.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/3D Models/Pool.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/duck.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/3D Models/duck.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/3D Models/water.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/3D Models/water.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Blue.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Blue.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Green.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Green.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Orange.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Orange.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Orange.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Orange.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Red.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Red.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Yellow.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Basic Colors/Yellow.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/DuckMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/DuckMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/DuckMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/DuckMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrassMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/GrassMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/GrassMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/GrassMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Material.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Material.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Material/MilkyWay.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Material/MilkyWay.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Material/MilkyWay.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Material/MilkyWay.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/MilkyWaySkybox.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/MilkyWaySkybox.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/Default.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/Default.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/Default.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/Default.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/DefaultSettings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/DefaultSettings.lighting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/DefaultSettings.lighting.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Scenes/DefaultSettings.lighting.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Texture.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Texture.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Texture/MilkyWayPanorama8K.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Skyboxes/MilkyWay/Texture/MilkyWayPanorama8K.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/DuckTextures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/DuckTextures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/DuckTextures/Ducky_BaseColor.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/DuckTextures/Ducky_BaseColor.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_COLOR.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_COLOR.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_DISP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_DISP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_NRM.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_NRM.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_OCC.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_OCC.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_SPEC.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/GrassTextures/Grass_002_SPEC.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Textures/WoodFloorTexture.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Textures/WoodFloorTexture.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/WaterMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/WaterMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/WaterMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/WaterMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/WoodFloorMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/WoodFloorMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/WoodFloorMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/WoodFloorMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FirstScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FirstScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/OuterSpace.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/OuterSpace.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/OuterSpace.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/OuterSpace.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectRotator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectRotator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ObjectRotator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectRotator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2E5rqcjaSVdd5pP3NPDDLGPeYEx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b7ab8b3-2017-4bba-b083-5750996fccd0" name="Default Changelist" comment="" />
+      <created>1661896481049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661896481049</updated>
+    </task>
+    <servers />
+  </component>
+</project>
